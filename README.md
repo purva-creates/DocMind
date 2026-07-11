@@ -23,6 +23,3 @@ chat with any PDF document using natural language.
 - SQLite via JDBC
 - Maven
 
-## Setup
-1. Clone the repo
-2. Set your Gemini API key as an environment variable:
